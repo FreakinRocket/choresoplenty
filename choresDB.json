@@ -1,0 +1,40 @@
+{
+    "chores": [
+        {
+            "name": "dishes",
+            "last": "071120222200",
+            "goals": [
+                {
+                    "name": "duration",
+                    "status": "met",
+                    "value": "30m",
+                    "condition": "<"
+                },
+                {
+                    "name": "interval",
+                    "status": "lacking",
+                    "value": "5d",
+                    "condition": "<"
+                }
+            ]
+        },
+        {
+            "name": "clean skink",
+            "last": "071120222200",
+            "goals": [
+                {
+                    "name": "duration",
+                    "status": "met",
+                    "value": "5m",
+                    "condition": "<"
+                },
+                {
+                    "name": "interval",
+                    "status": "lacking",
+                    "value": "2d",
+                    "condition": "<"
+                }
+            ]
+        }
+    ]
+}
